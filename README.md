@@ -10,3 +10,6 @@ Input:
 Output
    simple interest = p*t*r</code>
 </pre>
+<p>
+   <em>© 2022 XYZ, Inc.</em>
+</p>
